@@ -1,0 +1,67 @@
+a{
+	color: black
+}
+a:hover{
+	color:green
+}
+ a{ 
+    text-decoration: none;
+ }
+table{
+	background: #fff0ff
+}
+h2{
+	text-align: center;
+}
+h1{
+	
+}
+sup{
+	color: blue;
+}
+body{
+	background-color: #FFF0FF
+}
+::selection{
+	color: #fff;
+	background: #000000;
+}
+body{
+	padding: 20px 20px 20px 20px;
+	margin:20px;
+}
+p{
+	font-size: 18px;
+	font-family:"Kurale",Lobster,Ubuntu,PT Sans,Arial,Helvetica,sans-serif;
+	
+
+}
+h2{
+	font-family:"Pacifico",Palatino,Ubuntu,PT Sans,Arial,Helvetica,sans-serif;
+	border-bottom: 2px solid grey;
+	padding-top:12px;
+}
+h1{
+	font-family:"Dancing Script",Lobster,Ubuntu,PT Sans,Arial,Helvetica,sans-serif;
+}
+#logo{
+	font-family:"Dancing Script",Lobster,Ubuntu,PT Sans,Arial,Helvetica,sans-serif; 
+	font-size: 2.1em;
+	
+	font-style: italic;
+	margin-bottom: 26px
+	background:rgb(133,133,133);
+	border-radius: 10px;
+	padding:12px;
+}
+.note{
+	color: #000000;
+	border: 2px solid#fff
+	background: rgb(69,189,102);
+	margin-top:22px;
+	margin-bottom:30px
+}
+article{
+	max-width:auto;
+	margin:0,auto;
+}
